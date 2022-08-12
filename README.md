@@ -1,4 +1,4 @@
-# deneme
+# RuneCast Inventory Tree
 
 ## Project setup
 ```
